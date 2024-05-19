@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Include Go dependency manifests
+!go.mod
+!go.sum
+
+# Include the Go source code
+!**/*.go
